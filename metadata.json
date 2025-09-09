@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Home AI Management",
+  "description": "A comprehensive smart home management system with AI-powered automation and a chatbot assistant. Control devices, monitor energy, manage security, and create intelligent routines all in one place.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
